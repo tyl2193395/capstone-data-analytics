@@ -1,0 +1,57 @@
+Geography Type Description,Geography Name,Sits in State,GeoID,Formatted GeoID,Aggravated Assaults,Data Time Period,Geographic Vintage,Data Source,Selected Location
+State,Alabama,AL,1,01,16765,2023,,FBI UCR & DOJ,United States
+State,Alaska,AK,2,02,3829,2023,,FBI UCR & DOJ,United States
+State,Arizona,AZ,4,04,22424,2023,,FBI UCR & DOJ,United States
+State,Arkansas,AR,5,05,15354,2023,,FBI UCR & DOJ,United States
+State,California,CA,6,06,131940,2023,,FBI UCR & DOJ,United States
+State,Colorado,CO,8,08,20299,2023,,FBI UCR & DOJ,United States
+State,Connecticut,CT,9,09,3002,2023,,FBI UCR & DOJ,United States
+State,Delaware,DE,10,10,3148,2023,,FBI UCR & DOJ,United States
+State,District of Columbia,DC,11,11,3112,2023,,FBI UCR & DOJ,United States
+State,Florida,FL,12,12,48236,2023,,FBI UCR & DOJ,United States
+State,Georgia,GA,13,13,29777,2023,,FBI UCR & DOJ,United States
+State,Hawaii,HI,15,15,1620,2023,,FBI UCR & DOJ,United States
+State,Idaho,ID,16,16,3523,2023,,FBI UCR & DOJ,United States
+State,Illinois,IL,17,17,18921,2023,,FBI UCR & DOJ,United States
+State,Indiana,IN,18,18,17297,2023,,FBI UCR & DOJ,United States
+State,Iowa,IA,19,19,6861,2023,,FBI UCR & DOJ,United States
+State,Kansas,KS,20,20,10277,2023,,FBI UCR & DOJ,United States
+State,Kentucky,KY,21,21,6589,2023,,FBI UCR & DOJ,United States
+State,Louisiana,LA,22,22,19809,2023,,FBI UCR & DOJ,United States
+State,Maine,ME,23,23,784,2023,,FBI UCR & DOJ,United States
+State,Maryland,MD,24,24,15771,2023,,FBI UCR & DOJ,United States
+State,Massachusetts,MA,25,25,17382,2023,,FBI UCR & DOJ,United States
+State,Michigan,MI,26,26,35687,2023,,FBI UCR & DOJ,United States
+State,Minnesota,MN,27,27,9979,2023,,FBI UCR & DOJ,United States
+State,Mississippi,MS,28,28,4169,2023,,FBI UCR & DOJ,United States
+State,Missouri,MO,29,29,21698,2023,,FBI UCR & DOJ,United States
+State,Montana,MT,30,30,4086,2023,,FBI UCR & DOJ,United States
+State,Nebraska,NE,31,31,3004,2023,,FBI UCR & DOJ,United States
+State,Nevada,NV,32,32,9222,2023,,FBI UCR & DOJ,United States
+State,New Hampshire,NH,33,33,753,2023,,FBI UCR & DOJ,United States
+State,New Jersey,NJ,34,34,14005,2023,,FBI UCR & DOJ,United States
+State,New Mexico,NM,35,35,12944,2023,,FBI UCR & DOJ,United States
+State,New York,NY,36,36,50225,2023,,FBI UCR & DOJ,United States
+State,North Carolina,NC,37,37,32885,2023,,FBI UCR & DOJ,United States
+State,North Dakota,ND,38,38,1475,2023,,FBI UCR & DOJ,United States
+State,Ohio,OH,39,39,21730,2023,,FBI UCR & DOJ,United States
+State,Oklahoma,OK,40,40,12637,2023,,FBI UCR & DOJ,United States
+State,Oregon,OR,41,41,9271,2023,,FBI UCR & DOJ,United States
+State,Pennsylvania,PA,42,42,22187,2023,,FBI UCR & DOJ,United States
+State,Rhode Island,RI,44,44,1168,2023,,FBI UCR & DOJ,United States
+State,South Carolina,SC,45,45,20764,2023,,FBI UCR & DOJ,United States
+State,South Dakota,SD,46,46,2538,2023,,FBI UCR & DOJ,United States
+State,Tennessee,TN,47,47,36293,2023,,FBI UCR & DOJ,United States
+State,Texas,TX,48,48,85914,2023,,FBI UCR & DOJ,United States
+State,Utah,UT,49,49,5108,2023,,FBI UCR & DOJ,United States
+State,Vermont,VT,50,50,1054,2023,,FBI UCR & DOJ,United States
+State,Virginia,VA,51,51,14191,2023,,FBI UCR & DOJ,United States
+State,Washington,WA,53,53,18203,2023,,FBI UCR & DOJ,United States
+State,West Virginia,WV,54,54,3590,2023,,FBI UCR & DOJ,United States
+State,Wisconsin,WI,55,55,12333,2023,,FBI UCR & DOJ,United States
+State,Wyoming,WY,56,56,717,2023,,FBI UCR & DOJ,United States
+State,American Samoa,AS,60,60,N/A,2023,,FBI UCR & DOJ,United States
+State,Guam,GU,66,66,N/A,2023,,FBI UCR & DOJ,United States
+State,Commonwealth of the Northern Mariana Islands,MP,69,69,N/A,2023,,FBI UCR & DOJ,United States
+State,Puerto Rico,PR,72,72,3811,2023,,FBI UCR & DOJ,United States
+State,Virgin Islands of the United States,VI,78,78,N/A,2023,,FBI UCR & DOJ,United States
