@@ -20,36 +20,24 @@ This project analyzes violent crime data across the United States to identify tr
 3. Run Python scripts in order to replicate data cleaning, outlier detection, and statistical analysis.
 4. Open the Power BI file to view interactive dashboards and visual summaries of crime trends.   
 
-File Structure
+## File Structure
+datasets/ 
+  - Aggravated_Assult_Cases_Dataset.csv
+  - Crime_Full_Cleaned.csv
+  - Murder_Cases_Dataset.csv
+  - README.md
+  - Rape_Cases_Dataset.csv
+  - Raw_Crime_Data.xlsx
+  - Robbery_Cases_Dataset.csv
 
-violent-crimes-capstone/
+documents/
+  - M5_Final_Capstone_Full_Report.docx
+  - README.md
 
-data/
-
-crime_data.csv
-
-supplemental_data.xlsx
-
-notebooks/
-
-data_cleaning.ipynb
-
-exploratory_analysis.ipynb
-
-statistical_analysis.ipynb
-
-powerbi/
-
-violent_crimes_dashboard.pbix
+powerbi_dashbaord/
+  - README.md
+  - United_States_Violent_Crimes_Capstone_Report.pbix
 
 scripts/
-
-outlier_detection.py
-
-correlation_analysis.py
-
-visualization_helpers.py
-
-README.md
-
-requirements.txt
+  - Crime_Data_Cleaned.ipynb
+  - README.md
